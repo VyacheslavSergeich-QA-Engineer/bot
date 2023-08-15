@@ -1,0 +1,2 @@
+# bot
+card_validator
